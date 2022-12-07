@@ -1,4 +1,4 @@
-# Front end Mentor - solução de cartão de resumo do pedido
+# Front end Mentor - componente de código QR
 
 Esta é uma solução para o [Desafio do Front End Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
